@@ -1,0 +1,9 @@
+Git:-
+Working on the project how to track the project and merge the changes to the common repo
+Git similar to svm
+Git commands are needed to access in gitrepo
+GitHub
+Has the understanding of the modifications in the code 
+So basically if you are dealling with plugin it might change from company to company but if we are working with git bash we are not depended on the plugins 
+
+
